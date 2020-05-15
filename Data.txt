@@ -1,0 +1,2 @@
+Data
+    This report will use FourSquare and the neighborhood/borough data about NYC from the exercise in order to analyze different locations' Indian restaurant markets. The analysis will use neighborhood location data, venue location data, and restaurant ratings. The data will be cleaned and formatted into a pandas dataframe.
